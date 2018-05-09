@@ -1,0 +1,146 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term
+GO:0010287	0.000259818828350139	0.999985943981989	4	45	plastoglobule	CC	0.9999999999	CC plastoglobule
+GO:0046923	0.000468905235691177	0.999996817394856	2	5	ER retention sequence binding	MF	0.9999999999	MF ER retention sequence binding
+GO:0012505	0.000583359893580397	0.999979590177072	3	24	endomembrane system	CC	0.9999999999	CC endomembrane system
+GO:0006621	0.000701083508198562	0.999993654483673	2	6	protein retention in ER lumen	BP	0.9999999999	BP protein retention in ER lumen
+GO:0035437	0.000977919718426514	0.999988936921662	2	7	maintenance of protein localization in endoplasmic reticulum	BP	0.9999999999	BP maintenance of protein localization in endoplasmic reticulum
+GO:0072595	0.00165835484686345	0.999973785884622	2	9	maintenance of protein localization in organelle	BP	0.9999999999	BP maintenance of protein localization in organelle
+GO:0016137	0.00250623545804579	0.999949164043593	2	11	glycoside metabolic process	BP	0.9999999999	BP glycoside metabolic process
+GO:0018298	0.00419500800981307	0.999693799655961	3	47	protein-chromophore linkage	BP	0.9999999999	BP protein-chromophore linkage
+GO:0055072	0.00677830113064217	0.999756039091911	2	18	iron ion homeostasis	BP	0.9999999999	BP iron ion homeostasis
+GO:0050370	0.00694540954942143	1	1	1	tyrosine N-monooxygenase activity	MF	0.9999999999	MF tyrosine N-monooxygenase activity
+GO:0030093	0.00695108327414381	1	1	1	chloroplast photosystem I	CC	0.9999999999	CC chloroplast photosystem I
+GO:0006883	0.00696274032876265	1	1	1	cellular sodium ion homeostasis	BP	0.9999999999	BP cellular sodium ion homeostasis
+GO:0030644	0.00696274032876265	1	1	1	cellular chloride ion homeostasis	BP	0.9999999999	BP cellular chloride ion homeostasis
+GO:0060151	0.00696473323594892	1	1	1	peroxisome localization	BP	0.9999999999	BP peroxisome localization
+GO:0046906	0.00711047212374238	0.998451394275705	6	246	tetrapyrrole binding	MF	0.9999999999	MF tetrapyrrole binding
+GO:0055065	0.00717970076480045	0.999359506541475	3	57	metal ion homeostasis	BP	0.9999999999	BP metal ion homeostasis
+GO:0032507	0.00753554036064081	0.999712107631141	2	19	maintenance of protein location in cell	BP	0.9999999999	BP maintenance of protein location in cell
+GO:0045185	0.00753554036064081	0.999712107631141	2	19	maintenance of protein location	BP	0.9999999999	BP maintenance of protein location
+GO:0051645	0.0138449586325627	0.999952355471557	1	2	Golgi localization	BP	0.9999999999	BP Golgi localization
+GO:0006696	0.013856757035292	0.99995227394537	1	2	ergosterol biosynthetic process	BP	0.9999999999	BP ergosterol biosynthetic process
+GO:0008204	0.013856757035292	0.99995227394537	1	2	ergosterol metabolic process	BP	0.9999999999	BP ergosterol metabolic process
+GO:0044107	0.013856757035292	0.99995227394537	1	2	cellular alcohol metabolic process	BP	0.9999999999	BP cellular alcohol metabolic process
+GO:0044108	0.013856757035292	0.99995227394537	1	2	cellular alcohol biosynthetic process	BP	0.9999999999	BP cellular alcohol biosynthetic process
+GO:0097384	0.013856757035292	0.99995227394537	1	2	cellular lipid biosynthetic process	BP	0.9999999999	BP cellular lipid biosynthetic process
+GO:0055064	0.0138584241924592	0.999952262419764	1	2	chloride ion homeostasis	BP	0.9999999999	BP chloride ion homeostasis
+GO:0000293	0.0138595257864451	0.999952254803314	1	2	ferric-chelate reductase activity	MF	0.9999999999	MF ferric-chelate reductase activity
+GO:0004820	0.0138695786362793	0.99995218526937	1	2	glycine-tRNA ligase activity	MF	0.9999999999	MF glycine-tRNA ligase activity
+GO:0006426	0.0138695786362793	0.99995218526937	1	2	glycyl-tRNA aminoacylation	BP	0.9999999999	BP glycyl-tRNA aminoacylation
+GO:0016208	0.0138728076453438	0.999952162924023	1	2	AMP binding	MF	0.9999999999	MF AMP binding
+GO:0032368	0.013878459014843	0.999952123802834	1	2	regulation of lipid transport	BP	0.9999999999	BP regulation of lipid transport
+GO:0032371	0.013878459014843	0.999952123802834	1	2	regulation of sterol transport	BP	0.9999999999	BP regulation of sterol transport
+GO:0032374	0.013878459014843	0.999952123802834	1	2	regulation of cholesterol transport	BP	0.9999999999	BP regulation of cholesterol transport
+GO:0032377	0.013878459014843	0.999952123802834	1	2	regulation of intracellular lipid transport	BP	0.9999999999	BP regulation of intracellular lipid transport
+GO:0032380	0.013878459014843	0.999952123802834	1	2	regulation of intracellular sterol transport	BP	0.9999999999	BP regulation of intracellular sterol transport
+GO:0032383	0.013878459014843	0.999952123802834	1	2	regulation of intracellular cholesterol transport	BP	0.9999999999	BP regulation of intracellular cholesterol transport
+GO:0055078	0.013878971718507	0.999952120252884	1	2	sodium ion homeostasis	BP	0.9999999999	BP sodium ion homeostasis
+GO:0022900	0.0141320978905749	0.998372390581382	3	73	electron transport chain	BP	0.9999999999	BP electron transport chain
+GO:0051651	0.0149175195277091	0.999165559967501	2	27	maintenance of location in cell	BP	0.9999999999	BP maintenance of location in cell
+GO:0005048	0.0149364009497161	0.999163948310289	2	27	signal sequence binding	MF	0.9999999999	MF signal sequence binding
+GO:0009521	0.0162975223179725	0.998018162573571	3	77	photosystem	CC	0.9999999999	CC photosystem
+GO:0055080	0.0185903059793965	0.997622440456347	3	81	cation homeostasis	BP	0.9999999999	BP cation homeostasis
+GO:0004659	0.0193846464331769	0.99874581632078	2	31	prenyltransferase activity	MF	0.9999999999	MF prenyltransferase activity
+GO:0009941	0.0200100606318782	0.995310927940266	5	225	chloroplast envelope	CC	0.9999999999	CC chloroplast envelope
+GO:0009534	0.0205881421063228	0.997261691598179	3	84	chloroplast thylakoid	CC	0.9999999999	CC chloroplast thylakoid
+GO:0031976	0.0205881421063228	0.997261691598179	3	84	plastid thylakoid	CC	0.9999999999	CC plastid thylakoid
+GO:0047037	0.0206309754112199	0.999858612616241	1	3	salutaridine reductase (NADPH) activity	MF	0.9999999999	MF salutaridine reductase (NADPH) activity
+GO:0010132	0.0206875745464428	0.999857832109562	1	3	dhurrin biosynthetic process	BP	0.9999999999	BP dhurrin biosynthetic process
+GO:0005537	0.0206902872936118	0.999857794646095	1	3	mannose binding	MF	0.9999999999	MF mannose binding
+GO:0033743	0.0206933012280201	0.999857753017341	1	3	peptide-methionine (R)-S-oxide reductase activity	MF	0.9999999999	MF peptide-methionine (R)-S-oxide reductase activity
+GO:0009526	0.0207039583612192	0.995105504829957	5	227	plastid envelope	CC	0.9999999999	CC plastid envelope
+GO:0033984	0.0207092604578516	0.999857532484414	1	3	indole-3-glycerol-phosphate lyase activity	MF	0.9999999999	MF indole-3-glycerol-phosphate lyase activity
+GO:0090436	0.0207127415051893	0.999857484358585	1	3	leaf pavement cell development	BP	0.9999999999	BP leaf pavement cell development
+GO:1901002	0.0207162240226631	0.999857436204223	1	3	positive regulation of response to salt stress	BP	0.9999999999	BP positive regulation of response to salt stress
+GO:0006677	0.0207162758332094	0.999857435487753	1	3	glycosylceramide metabolic process	BP	0.9999999999	BP glycosylceramide metabolic process
+GO:0006678	0.0207162758332094	0.999857435487753	1	3	glucosylceramide metabolic process	BP	0.9999999999	BP glucosylceramide metabolic process
+GO:0006680	0.0207162758332094	0.999857435487753	1	3	glucosylceramide catabolic process	BP	0.9999999999	BP glucosylceramide catabolic process
+GO:0019377	0.0207162758332094	0.999857435487753	1	3	glycolipid catabolic process	BP	0.9999999999	BP glycolipid catabolic process
+GO:0021954	0.0207162758332094	0.999857435487753	1	3	central nervous system neuron development	BP	0.9999999999	BP central nervous system neuron development
+GO:0030149	0.0207162758332094	0.999857435487753	1	3	sphingolipid catabolic process	BP	0.9999999999	BP sphingolipid catabolic process
+GO:0046466	0.0207162758332094	0.999857435487753	1	3	membrane lipid catabolic process	BP	0.9999999999	BP membrane lipid catabolic process
+GO:0046477	0.0207162758332094	0.999857435487753	1	3	glycosylceramide catabolic process	BP	0.9999999999	BP glycosylceramide catabolic process
+GO:0046479	0.0207162758332094	0.999857435487753	1	3	glycosphingolipid catabolic process	BP	0.9999999999	BP glycosphingolipid catabolic process
+GO:0046514	0.0207162758332094	0.999857435487753	1	3	ceramide catabolic process	BP	0.9999999999	BP ceramide catabolic process
+GO:0016723	0.020716982681261	0.999857425712814	1	3	oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor	MF	0.9999999999	MF oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor
+GO:1901562	0.0207449437350704	0.999857038770541	1	3	response to paraquat	BP	0.9999999999	BP response to paraquat
+GO:0038018	0.0207474664952285	0.999857003832999	1	3	Wnt receptor catabolic process	BP	0.9999999999	BP Wnt receptor catabolic process
+GO:2000051	0.0207474664952285	0.999857003832999	1	3	negative regulation of non-canonical Wnt signaling pathway	BP	0.9999999999	BP negative regulation of non-canonical Wnt signaling pathway
+GO:0098771	0.0217564931013354	0.997043887698534	3	86	inorganic ion homeostasis	BP	0.9999999999	BP inorganic ion homeostasis
+GO:0055076	0.0218363595474819	0.99849060586715	2	33	transition metal ion homeostasis	BP	0.9999999999	BP transition metal ion homeostasis
+GO:0016168	0.023126206044251	0.998349693415354	2	34	chlorophyll binding	MF	0.9999999999	MF chlorophyll binding
+GO:0048878	0.0234885659206968	0.995367441541964	4	157	chemical homeostasis	BP	0.9999999999	BP chemical homeostasis
+GO:0000786	0.0242615332612287	0.998221661623994	2	35	nucleosome	CC	0.9999999999	CC nucleosome
+GO:1990104	0.0242615332612287	0.998221661623994	2	35	DNA bending complex	CC	0.9999999999	CC DNA bending complex
+GO:0031984	0.0246447374930815	0.996486144866405	3	90	organelle subcompartment	CC	0.9999999999	CC organelle subcompartment
+GO:0009522	0.0257289631771342	0.998051757027912	2	36	photosystem I	CC	0.9999999999	CC photosystem I
+GO:0016765	0.0259403614658425	0.996226906833839	3	92	transferase activity, transferring alkyl or aryl (other than methyl) groups	MF	0.9999999999	MF transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0009767	0.0271557752798328	0.997881146171017	2	37	photosynthetic electron transport chain	BP	0.9999999999	BP photosynthetic electron transport chain
+GO:0009898	0.0273033620941394	0.999720780726125	1	4	cytoplasmic side of plasma membrane	CC	0.9999999999	CC cytoplasmic side of plasma membrane
+GO:0005628	0.0274239429539337	0.999718294409812	1	4	prospore membrane	CC	0.9999999999	CC prospore membrane
+GO:1902884	0.0274285931513963	0.999718198301783	1	4	positive regulation of response to oxidative stress	BP	0.9999999999	BP positive regulation of response to oxidative stress
+GO:0019756	0.0274452996809024	0.999717852882496	1	4	cyanogenic glycoside biosynthetic process	BP	0.9999999999	BP cyanogenic glycoside biosynthetic process
+GO:0042341	0.0274452996809024	0.999717852882496	1	4	cyanogenic glycoside metabolic process	BP	0.9999999999	BP cyanogenic glycoside metabolic process
+GO:0004348	0.0274498966319639	0.999717757799733	1	4	glucosylceramidase activity	MF	0.9999999999	MF glucosylceramidase activity
+GO:0016139	0.0274498966319639	0.999717757799733	1	4	glycoside catabolic process	BP	0.9999999999	BP glycoside catabolic process
+GO:0016094	0.0274974494134983	0.999716773272885	1	4	polyprenol biosynthetic process	BP	0.9999999999	BP polyprenol biosynthetic process
+GO:0019408	0.0274974494134983	0.999716773272885	1	4	dolichol biosynthetic process	BP	0.9999999999	BP dolichol biosynthetic process
+GO:0044815	0.0297012398179902	0.997563511469976	2	39	DNA packaging complex	CC	0.9999999999	CC DNA packaging complex
+GO:0009932	0.0298041694797568	0.997550523701582	2	39	cell tip growth	BP	0.9999999999	BP cell tip growth
+GO:0009636	0.0298570895398902	0.997543836574096	2	39	response to toxic substance	BP	0.9999999999	BP response to toxic substance
+GO:0044434	0.0299215601775009	0.987341855891876	11	840	chloroplast part	CC	0.9999999999	CC chloroplast part
+GO:0050896	0.0307115115587799	0.983524840316034	22	2135	response to stimulus	BP	0.9999999999	BP response to stimulus
+GO:0044435	0.031532889879347	0.986548960222947	11	847	plastid part	CC	0.9999999999	CC plastid part
+GO:0048588	0.032715677930515	0.997167782588263	2	41	developmental cell growth	BP	0.9999999999	BP developmental cell growth
+GO:0050801	0.0329190172134705	0.99474436651455	3	101	ion homeostasis	BP	0.9999999999	BP ion homeostasis
+GO:0098562	0.0340785058230327	0.999534929782176	1	5	cytoplasmic side of membrane	CC	0.9999999999	CC cytoplasmic side of membrane
+GO:0050898	0.034146570851524	0.999533056965741	1	5	nitrile metabolic process	BP	0.9999999999	BP nitrile metabolic process
+GO:0080028	0.034146570851524	0.999533056965741	1	5	nitrile biosynthetic process	BP	0.9999999999	BP nitrile biosynthetic process
+GO:0004066	0.0341851484802768	0.999531993803546	1	5	asparagine synthase (glutamine-hydrolyzing) activity	MF	0.9999999999	MF asparagine synthase (glutamine-hydrolyzing) activity
+GO:0006528	0.0341851484802768	0.999531993803546	1	5	asparagine metabolic process	BP	0.9999999999	BP asparagine metabolic process
+GO:0006529	0.0341851484802768	0.999531993803546	1	5	asparagine biosynthetic process	BP	0.9999999999	BP asparagine biosynthetic process
+GO:0070981	0.0341851484802768	0.999531993803546	1	5	L-asparagine biosynthetic process	BP	0.9999999999	BP L-asparagine biosynthetic process
+GO:0070982	0.0341851484802768	0.999531993803546	1	5	L-asparagine metabolic process	BP	0.9999999999	BP L-asparagine metabolic process
+GO:1901804	0.0341893951767199	0.999531876693776	1	5	beta-glucoside metabolic process	BP	0.9999999999	BP beta-glucoside metabolic process
+GO:1901806	0.0341893951767199	0.999531876693776	1	5	beta-glucoside biosynthetic process	BP	0.9999999999	BP beta-glucoside biosynthetic process
+GO:1902882	0.0342038346678352	0.99953147838946	1	5	regulation of response to oxidative stress	BP	0.9999999999	BP regulation of response to oxidative stress
+GO:0008526	0.0342262122786235	0.999530860777678	1	5	phosphatidylinositol transporter activity	MF	0.9999999999	MF phosphatidylinositol transporter activity
+GO:0009638	0.0342300827947031	0.999530753911359	1	5	phototropism	BP	0.9999999999	BP phototropism
+GO:0030042	0.0342438287152536	0.999530374281862	1	5	actin filament depolymerization	BP	0.9999999999	BP actin filament depolymerization
+GO:0051261	0.0342438287152536	0.999530374281862	1	5	protein depolymerization	BP	0.9999999999	BP protein depolymerization
+GO:0010106	0.0342630521574981	0.999529843115189	1	5	cellular response to iron ion starvation	BP	0.9999999999	BP cellular response to iron ion starvation
+GO:0035619	0.0342811512128672	0.999529342738368	1	5	root hair tip	CC	0.9999999999	CC root hair tip
+GO:0032544	0.0342868718894202	0.999529184525136	1	5	plastid translation	BP	0.9999999999	BP plastid translation
+GO:0046481	0.034300809380336	0.99952879895164	1	5	digalactosyldiacylglycerol synthase activity	MF	0.9999999999	MF digalactosyldiacylglycerol synthase activity
+GO:2000050	0.0343069423340484	0.999528629235925	1	5	regulation of non-canonical Wnt signaling pathway	BP	0.9999999999	BP regulation of non-canonical Wnt signaling pathway
+GO:0032801	0.0343192387659013	0.999528288866431	1	5	receptor catabolic process	BP	0.9999999999	BP receptor catabolic process
+GO:0048468	0.0356863972393779	0.996756816095332	2	43	cell development	BP	0.9999999999	BP cell development
+GO:0009735	0.035797524024196	0.996741243418129	2	43	response to cytokinin	BP	0.9999999999	BP response to cytokinin
+GO:0051235	0.0372780972963114	0.996528517253146	2	44	maintenance of location	BP	0.9999999999	BP maintenance of location
+GO:0016020	0.0379762782211291	0.978006110185432	29	3082	membrane	CC	0.9999999999	CC membrane
+GO:0005789	0.0386046251560583	0.987724018815764	6	360	endoplasmic reticulum membrane	CC	0.9999999999	CC endoplasmic reticulum membrane
+GO:0044432	0.0388803989486376	0.986343304617605	7	457	endoplasmic reticulum part	CC	0.9999999999	CC endoplasmic reticulum part
+GO:0030002	0.0408700719554425	0.999301573436179	1	6	cellular anion homeostasis	BP	0.9999999999	BP cellular anion homeostasis
+GO:0030320	0.0408700719554425	0.999301573436179	1	6	cellular monovalent inorganic anion homeostasis	BP	0.9999999999	BP cellular monovalent inorganic anion homeostasis
+GO:0016767	0.0409238965504604	0.999299717332533	1	6	geranylgeranyl-diphosphate geranylgeranyltransferase activity	MF	0.9999999999	MF geranylgeranyl-diphosphate geranylgeranyltransferase activity
+GO:0003913	0.0409412022860124	0.999299120024324	1	6	DNA photolyase activity	MF	0.9999999999	MF DNA photolyase activity
+GO:0006007	0.0409668806760861	0.999298233256554	1	6	glucose catabolic process	BP	0.9999999999	BP glucose catabolic process
+GO:0006687	0.0410331051006362	0.999295943656951	1	6	glycosphingolipid metabolic process	BP	0.9999999999	BP glycosphingolipid metabolic process
+GO:0016851	0.0410735764109848	0.99929454256214	1	6	magnesium chelatase activity	MF	0.9999999999	MF magnesium chelatase activity
+GO:0051002	0.0410735764109848	0.99929454256214	1	6	ligase activity, forming nitrogen-metal bonds	MF	0.9999999999	MF ligase activity, forming nitrogen-metal bonds
+GO:0051003	0.0410735764109848	0.99929454256214	1	6	ligase activity, forming nitrogen-metal bonds, forming coordination complexes	MF	0.9999999999	MF ligase activity, forming nitrogen-metal bonds, forming coordination complexes
+GO:0032993	0.0434926866607502	0.995583565764627	2	48	protein-DNA complex	CC	0.9999999999	CC protein-DNA complex
+GO:0004497	0.0441480367592298	0.989386721532314	4	192	monooxygenase activity	MF	0.9999999999	MF monooxygenase activity
+GO:0042592	0.0442234541203692	0.987215386115897	5	279	homeostatic process	BP	0.9999999999	BP homeostatic process
+GO:0031967	0.0449857834848198	0.986934241116526	5	280	organelle envelope	CC	0.9999999999	CC organelle envelope
+GO:0031975	0.0449857834848198	0.986934241116526	5	280	envelope	CC	0.9999999999	CC envelope
+GO:0034755	0.0473272179962996	0.999034533605768	1	7	iron ion transmembrane transport	BP	0.9999999999	BP iron ion transmembrane transport
+GO:0000229	0.0474963061546059	0.999027556953325	1	7	cytoplasmic chromosome	CC	0.9999999999	CC cytoplasmic chromosome
+GO:0009508	0.0474963061546059	0.999027556953325	1	7	plastid chromosome	CC	0.9999999999	CC plastid chromosome
+GO:0016138	0.0475378058231705	0.999025840746881	1	7	glycoside biosynthetic process	BP	0.9999999999	BP glycoside biosynthetic process
+GO:0019897	0.0475580843882158	0.999025001572067	1	7	extrinsic component of plasma membrane	CC	0.9999999999	CC extrinsic component of plasma membrane
+GO:0016722	0.0475990170853667	0.999023306558961	1	7	oxidoreductase activity, oxidizing metal ions	MF	0.9999999999	MF oxidoreductase activity, oxidizing metal ions
+GO:0004834	0.0476182282337829	0.999022510512688	1	7	tryptophan synthase activity	MF	0.9999999999	MF tryptophan synthase activity
+GO:0008266	0.0477254489312696	0.999018061573469	1	7	poly(U) RNA binding	MF	0.9999999999	MF poly(U) RNA binding
+GO:0009635	0.0477504934118266	0.999017020912529	1	7	response to herbicide	BP	0.9999999999	BP response to herbicide
+GO:0044425	0.0488562772904481	0.971283433593646	27	2884	membrane part	CC	0.9999999999	CC membrane part

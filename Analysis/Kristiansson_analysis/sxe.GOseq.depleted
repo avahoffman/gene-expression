@@ -1,0 +1,8 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0044428	0.999764499639874	0.00231855013225085	1	1139	nuclear part	CC	0.9999999999	0.9999999999	CC nuclear part
+GO:0016788	1	0.0105163861733164	0	636	hydrolase activity, acting on ester bonds	MF	0.9999999999	0.9999999999	MF hydrolase activity, acting on ester bonds
+GO:0016787	0.993792697539936	0.015889967372929	7	2078	hydrolase activity	MF	0.9999999999	0.9999999999	MF hydrolase activity
+GO:0019637	1	0.0202271159297297	0	547	organophosphate metabolic process	BP	0.9999999999	0.9999999999	BP organophosphate metabolic process
+GO:0006139	0.977265449686715	0.0449304926532376	11	2531	nucleobase-containing compound metabolic process	BP	0.9999999999	0.9999999999	BP nucleobase-containing compound metabolic process
+GO:0006793	0.985859448058297	0.0450665564544131	3	1103	phosphorus metabolic process	BP	0.9999999999	0.9999999999	BP phosphorus metabolic process
+GO:0006796	0.984362641645002	0.0491175890305319	3	1086	phosphate-containing compound metabolic process	BP	0.9999999999	0.9999999999	BP phosphate-containing compound metabolic process
