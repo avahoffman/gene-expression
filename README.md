@@ -1,6 +1,10 @@
 # gene-expression
 
-[COMPLETED] How do two dominant grasses differ in their gene expression responses to drought?
+### Code to accompany *Gene expression differs in codominant prairie grasses under drought*
+
+[![DOI](https://zenodo.org/badge/doi/10.1111/1755-0998.12733.svg)](https://doi.org/10.1111/1755-0998.12733)
+
+How do two dominant grasses differ in their gene expression responses to drought?
 
 Grasslands of the Central US are expected to experience severe droughts and other climate extremes in the future, yet we know little about how these grasses will respond in terms of gene expression. 
 
